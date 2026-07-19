@@ -88,10 +88,6 @@ PillMate follows a compact cylindrical bedside design with a transparent UV-prot
 * **Micro-Vibratory Support:** Add an anti-jam vibration motor to ensure smooth release of sticky capsules or odd-shaped tablets.
 * **Offline Scheduler Sync:** Implement ESP32 flash storage schedules so medications dispense on time even during WiFi outages.
 
-### Mid-Term
-* **B2B Eldercare Partnerships:** Integrate PillMate directly with senior-living facility management dashboards.
-* **Pharmacy Refill API:** Connect with local pharmacies for automatic refill shipments when container quantities run low.
-
 ### Long-Term
 * **Wearable Health Sync:** Integrate with fitness bands and smartwatches (such as Fitbit/Apple Watch) to map heart rate, sleep quality, and medication adherence profiles.
 * **AI Health Analytics:** Predict disease flare-ups by analyzing correlation profiles between medication adherence deviations and vital wearable metrics.
@@ -107,7 +103,7 @@ PillMate follows a compact cylindrical bedside design with a transparent UV-prot
 ### Setup & Run
 1. Navigate to the project directory:
    ```bash
-   cd antigravity-ide
+   cd pill-mate-
    ```
 2. Install dependencies:
    ```bash
